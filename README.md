@@ -1,4 +1,5 @@
 ## Hiii <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Adul Alhy
+<div align="center">
 <img align="center" height="auto" src="https://avatars.githubusercontent.com/u/46670590?s=400&u=75267d270847c771cded0fd71fe6eb25be2b8cd6&v=4"/>
 
 ___
