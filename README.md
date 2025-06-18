@@ -1,4 +1,4 @@
-<!-- ⚡ Futuristic GitHub README - AdulAlhy aka Allizeyy -->
+<!-- 🚀 Futuristic GitHub README - Allizeyy aka AdulAlhy -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0fffd7,100:5e60ce&height=200&section=header&text=Allizeyy%20🚀&fontSize=50&fontAlignY=40&desc=Welcome%20to%20the%20Future!&descAlignY=60&descAlign=62" alt="header"/>
 
@@ -62,8 +62,14 @@
 
 ---
 
+<h2 align="center">🐍 Snake Contribution Animation</h2>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adulalhy/adulalhy/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adulalhy/adulalhy/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adulalhy/adulalhy/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/adulalhy/adulalhy/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 <!-- Made with ❤️ by Allizeyy -->
