@@ -1,6 +1,6 @@
 <!-- Futuristic README for adulalhy -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0fffd7,100:5e60ce&height=200&section=header&text=adulalhy%20🚀&fontSize=50&fontAlignY=40&desc=Welcome%20to%20the%20Future!&descAlignY=60&descAlign=62" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0fffd7,100:5e60ce&height=200&section=header&text=Allizeyy%20🚀&fontSize=50&fontAlignY=40&desc=Welcome%20to%20the%20Future!&descAlignY=60&descAlign=62" alt="header"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=4000&color=5e60ce&center=true&vCenter=true&width=600&lines=👾+Hello+Earthlings!;⚡+Building+the+future+one+commit+at+a+time;🛸+Always+learning+and+exploring" />
@@ -10,7 +10,7 @@
 
 ## 🧑‍🚀 About Me
 
-Hi, I'm <b>adulalhy</b>.<br>
+Hi, I'm <b>Allizeyy</b>.<br>
 💡 Futurist • Coder • Explorer<br>
 ⚙️ Embracing technology, creativity, and innovation.
 
@@ -44,7 +44,7 @@ Hi, I'm <b>adulalhy</b>.<br>
 
 ## 🌌 Let's Connect
 
-<a href="mailto:adulalhy@example.com"><img src="https://img.shields.io/badge/Email-0fffd7?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:adulalhy@gmail.com"><img src="https://img.shields.io/badge/Email-0fffd7?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://linkedin.com/in/adulalhy"><img src="https://img.shields.io/badge/LinkedIn-5e60ce?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/adulalhy"><img src="https://img.shields.io/badge/X(Twitter)-272727?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
