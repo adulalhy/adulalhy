@@ -1,24 +1,59 @@
-## Hiii <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Adul Alhy
-<div align="center">
-<img align="center" height="auto" src="https://avatars.githubusercontent.com/u/46670590?s=400&u=75267d270847c771cded0fd71fe6eb25be2b8cd6&v=4"/>
+<!-- Futuristic README for adulalhy -->
 
-___
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0fffd7,100:5e60ce&height=200&section=header&text=adulalhy%20🚀&fontSize=50&fontAlignY=40&desc=Welcome%20to%20the%20Future!&descAlignY=60&descAlign=62" alt="header"/>
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=4000&color=5e60ce&center=true&vCenter=true&width=600&lines=👾+Hello+Earthlings!;⚡+Building+the+future+one+commit+at+a+time;🛸+Always+learning+and+exploring" />
+</p>
 
-___
-
-![MhankBarBar github stats](https://github-readme-stats.vercel.app/api?username=adulalhy&show_icons=true&theme=buefy&show_owner=true)
-___
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adulalhy&theme=buefy)
-![](https://github-profile-trophy.vercel.app/?username=adulalhy&row=2&column=3)
-
- [![hannoeru's github stats](https://github-readme-stats.vercel.app/api?username=adulalhy&show_icons=true&hide=issues&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  ___
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adulalhy&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-  ___
-  
-### :zap: Adul Alhy
 ---
+
+## 🧑‍🚀 About Me
+
+Hi, I'm <b>adulalhy</b>.<br>
+💡 Futurist • Coder • Explorer<br>
+⚙️ Embracing technology, creativity, and innovation.
+
+---
+
+## 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,react,go,astro,cpp,linux,git,figma,ai" alt="Tech Stack" />
+
+---
+
+## 🚀 Current Mission
+
+- 🚧 Developing cool and futuristic projects
+- 🤖 Exploring AI, automation, and next-gen tech
+- 🌐 Collaborating and sharing knowledge
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adulalhy&show_icons=true&theme=tokyonight&hide_border=true" alt="adulalhy's GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adulalhy&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <br />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=adulalhy&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+## 🌌 Let's Connect
+
+<a href="mailto:adulalhy@example.com"><img src="https://img.shields.io/badge/Email-0fffd7?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/adulalhy"><img src="https://img.shields.io/badge/LinkedIn-5e60ce?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://twitter.com/adulalhy"><img src="https://img.shields.io/badge/X(Twitter)-272727?style=for-the-badge&logo=twitter&logoColor=white"></a>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adulalhy/adulalhy/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+
+<!--
+Profile generated with ❤️ by GitHub Copilot X
+-->
