@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0fffd7,100:5e60ce&height=200&section=header&text=Allizeyy%20🚀&fontSize=50&fontAlignY=40&desc=Welcome%20to%20the%20Future!&descAlignY=60&descAlign=62" alt="header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&color=5E60CE&center=true&vCenter=true&width=650&lines=👾+Hello+Earthlings!;⚡+Crafting+the+Future+One+Commit+at+a+Time;🛸+Exploring+Tech+Beyond+Boundaries" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=5E60CE&center=true&vCenter=true&width=650&lines=👾+Hello+Earthlings!;⚡+Crafting+the+Future+One+Commit+at+a+Time;🛸+Exploring+Tech+Beyond+Boundaries" alt="Typing SVG"/>
 </p>
 
 ---
